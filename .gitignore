@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+# harvest caches, rebuilt by scrape.py / harvest_harvard.py
+data/hup_cache/
+data/uc_index.json
+data/uc_details.json
